@@ -16,10 +16,3 @@
 ![Profile views](https://gpvc.arturio.dev/jorgeepena)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeepena&show_icons=true&theme=transparent)
-
-<a href="https://github.com/jorgeepena/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeepena&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/jorgeepena/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeepena&repo=convoychat" />
-</a>
