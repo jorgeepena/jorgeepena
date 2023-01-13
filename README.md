@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-![Profile views](https://gpvc.arturio.dev/jorgeepena)
+ <p align='center'>
+  ![Profile views](https://gpvc.arturio.dev/jorgeepena)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeepena&show_icons=true&theme=transparent)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeepena&show_icons=true&theme=transparent)
+</p>
